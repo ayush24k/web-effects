@@ -4,11 +4,11 @@ import gsap from 'gsap';
 
 const projects = [
   {
-    title: "New York",
+    title: "Himachal Pradesh",
     color: "#F06318"
   },
   {
-    title: "San Francisco",
+    title: "Attack on Titan",
     color: "#DCF018"
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     color: "#18F0E8"
   },
   {
-    title: "Nashville",
+    title: "Sex",
     color: "#8C0CF0"
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     color: "#F0183C"
   },
   {
-    title: "New Orleans",
+    title: "Kangra",
     color: "#F0BA18"
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     color: "#0CBCF0"
   },
   {
-    title: "Indianapolis",
+    title: "Ayush 24k",
     color: "#91F018"
   }
 ]

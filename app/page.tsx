@@ -3,8 +3,8 @@ import './mainPage.css';
 const projects = [
   {
     number: "[01]",
-    title: "Empty",
-    link: "",
+    title: "Text Hover Effect",
+    link: "/TextHoverEffect",
   },
   {
     number: "[02]",
