@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.main-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+.project-container {
+   position: relative;
+   width: 100%;
+}
+
+.project-container div {
+    border-top: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    margin-bottom: -2vw;
+    background-color: white;
+}
+
+.project-container div p {
+    margin: 0px;
+    font-size: 5vw;
+    padding-left: 10px;
+    text-transform: uppercase;
+    pointer-events: none;
+}
